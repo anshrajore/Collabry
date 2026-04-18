@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#050505" />
+  <g transform="translate(256, 270)">
+    <text font-family="'Didot', 'Bodoni MT', 'Playfair Display', 'Times New Roman', serif" font-size="260" font-weight="normal" fill="#E8D3A2" text-anchor="middle" dominant-baseline="middle" letter-spacing="-15">CL</text>
+  </g>
+</svg>
